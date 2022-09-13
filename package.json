@@ -7,7 +7,7 @@
   "private": true,
   "scripts": {
     "dev": "parcel",
-    "build": "parcel build"
+    "build": "parcel build --dist-dir docs"
   },
   "devDependencies": {
     "parcel": "^2.7.0"
