@@ -1,0 +1,137 @@
+@media screen and (min-width: 1389px) {
+  body {
+    padding: 48px;
+    padding-bottom: 0;
+  }
+
+  h1 {
+    font-size: 64px;
+  }
+
+  h2 {
+    font-size: 48px;
+  }
+  
+  .visible-xl {
+    display: initial;
+  }
+
+  #header .title h1 {
+    margin-left: 12px;
+    margin-right: 12px;
+  }
+
+  #header .title img {
+    width: 48px;
+    height: 48px;
+    margin-left: 12px;
+    margin-right: 12px;
+  }
+
+  #header .description {
+    font-size: 14px;
+    margin-top: 24px;
+  }
+
+  #services {
+    margin-top: 96px;
+  }
+
+  #services .row {
+    margin-top: 18px;
+    font-size: 24px;
+  }
+
+  #services .column {
+    margin-right: 48px;
+  }
+
+  #skills {
+    margin-top: 96px;
+  }
+
+  #skills .row {
+    margin-top: 18px;
+    font-size: 24px;
+  }
+
+  #employers {
+    margin-top: 96px;
+  }
+
+  #employers .column:first-child {
+    margin-right: 24px;
+  }
+
+  #employers #swissquote {
+    height: 34px;
+    width: 180px;
+    margin-top: 24px;
+  }
+
+  #employers #creditsuisse {
+    height: 60px;
+    width: 194.4px;
+    margin-top: 13px;
+  }
+
+  #employers #revolut {
+    width: 108px;
+    height: 25px;
+    margin-top: 24px;
+  }
+
+  #employers #bolt {
+    width: 62.1px;
+    height: 36px;
+    margin-top: 10px;
+  }
+
+  #clients {
+    margin-top: 96px;
+  }
+
+  #clients .row {
+    margin-top: 24px;
+  }
+
+  #clients #algoritmika {
+    width: 190px;
+    height: 39.69px;
+    margin-left: 38.5px;
+  }
+
+  #clients #secured {
+    width: 193.5px;
+    height: 36px;
+  }
+
+  #clients #flare {
+    width: 73.53px;
+    height: 36px;
+  }
+
+  #clients #maroo {
+    width: 153.2px;
+    height: 30px;
+    margin-left: 24px;
+  }
+
+  #clients #zeta {
+    width: 97.5px;
+    height: 30px;
+    margin-left: 24px;
+  }
+
+  #footer {
+    margin-top: 96px;
+  }
+
+  #footer button {
+    font-size: 36px;
+    height: 82px;
+    padding-left: 102px;
+    padding-right: 102px;
+    cursor: pointer;
+  }
+}
