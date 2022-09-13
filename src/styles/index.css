@@ -68,6 +68,7 @@ p {
 }
 #content {
   max-width: 1512px;
+  margin: auto;
 }
 
 #header {
