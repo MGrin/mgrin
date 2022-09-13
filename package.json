@@ -7,9 +7,11 @@
   "private": true,
   "scripts": {
     "dev": "parcel",
-    "build": "parcel build"
+    "build": "parcel build --public-url https://mgrin.github.io",
+    "deploy-ipfs": "ipfs-deploy dist -u pinata -p pinata"
   },
   "devDependencies": {
+    "ipfs-deploy": "^12.0.0",
     "parcel": "^2.7.0"
   }
 }
